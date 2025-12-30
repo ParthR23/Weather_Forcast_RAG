@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-openai
+langchain-core
+langgraph
+qdrant-client
+pypdf
+python-dotenv
+streamlit
+langsmith
