@@ -23,3 +23,6 @@ An intelligent AI agent built with **LangGraph**, **LangChain**, and **Streamlit
    ```bash
    git clone <YOUR_REPO_URL>
    cd Weather_Forcast_RAG
+
+## Demo Video
+[Watch the explanation on Loom] (https://www.loom.com/share/e03db09e84b04068ba3a9867fd480774)
